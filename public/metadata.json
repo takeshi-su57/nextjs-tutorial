@@ -3,6 +3,7 @@
     "Merge pull requires #1 from bvaughn/update-on-async-update-again",
     "Fix mistake in integrating-with-other-libraries.md",
     "Fix type in integrating-with-other-libraries.md",
-    "s/Mozilla Developer Netweork/MDN Web Docs"
+    "s/Mozilla Developer Netweork/MDN Web Docs",
+    "Merge pull request #2 from raunofreiberg/fix/footer-nav-links-title"
   ]
 }
