@@ -7,6 +7,7 @@
     "Merge pull request #2 from raunofreiberg/fix/footer-nav-links-title",
     "Merge pull request #3 from chaficnajjar/patch-1",
     "Small tweaks to contribution doc",
-    "Remove lerna installation instruction"
+    "Remove lerna installation instruction",
+    "Re-generate yarn.lock"
   ]
 }
